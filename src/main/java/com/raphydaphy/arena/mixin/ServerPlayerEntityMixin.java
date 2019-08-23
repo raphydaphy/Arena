@@ -1,7 +1,6 @@
 package com.raphydaphy.arena.mixin;
 
 import com.mojang.authlib.GameProfile;
-import com.mojang.realmsclient.gui.ChatFormatting;
 import net.minecraft.client.network.packet.ChatMessageS2CPacket;
 import net.minecraft.entity.damage.DamageSource;
 import net.minecraft.entity.player.PlayerEntity;
