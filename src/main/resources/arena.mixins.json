@@ -3,9 +3,8 @@
   "package": "com.raphydaphy.arena.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "ServerPlayerEntityMixin"
-  ],
-  "client": [
+    "ServerPlayerEntityMixin",
+    "CompassItemMixin"
   ],
   "injectors": {
     "defaultRequire": 1
